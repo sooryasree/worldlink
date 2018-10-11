@@ -18,3 +18,7 @@ list for future.
 •	Operation System : Windows XP or above
 
 •	Browser : Any latest browser
+
+# How to run
+
+Clone or download the files from https://github.com/sooryasree/worldlink. Use web server or a local server to host the app. Attach the 'home.php' file as default. Thats all you need to get started.  
